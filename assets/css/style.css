@@ -12,9 +12,23 @@ body {
 
 .navbar {
   padding: 20px;
-
   background-color: #2a607c;
   color: #ffffff;
+}
+
+.navbar div {
+  padding-top: 15px;
+  margin-right: 20px;
+  float: right;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+}
+.navbar div ul {
+  list-style-type: none;
+}
+.navbar div ul li {
+  display: inline-block;
+  margin-left: 25px;
 }
 
 .navbar h1 {
@@ -24,16 +38,6 @@ body {
 
 .navbar h1 .seo {
   color: #d9dcd6;
-}
-
-.navbar .navlinks {
-  padding-top: 15px;
-  margin-right: 20px;
-  float: right;
-  font-size: 20px;
-  list-style-type: none;
-  display: inline-block;
-  margin-left: 25px;
 }
 
 a {
@@ -94,7 +98,7 @@ p {
   max-width: 150px;
 }
 
-#content-box {
+.content-box {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -102,11 +106,11 @@ p {
   color: #ffffff;
 }
 
-#content-box img {
+.content-box img {
   max-height: 200px;
 }
 
-#content-box h2 {
+.content-box h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
