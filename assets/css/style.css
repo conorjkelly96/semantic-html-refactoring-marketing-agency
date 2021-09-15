@@ -131,7 +131,11 @@ p {
   text-align: center;
 }
 
-/* Test Media Query */
+/* Screens that are max width of 768px then make nav links stack */
 
-@media screen and (max-width) {
+@media screen and (max-width: 768px) {
+  .navbar nav ul > li {
+    float: none;
+    width: 100%;
+  }
 }
