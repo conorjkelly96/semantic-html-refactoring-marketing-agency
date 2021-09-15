@@ -134,12 +134,3 @@ p {
 .footer-wrapper h4 {
   font-size: 20px;
 }
-/* Screens that are max width of 768px then make nav links stack */
-
-@media screen and (max-width: 768px) {
-  .navbar nav ul > li {
-    float: none;
-    width: 100%;
-    flex: auto;
-  }
-}
