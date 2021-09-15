@@ -20,7 +20,7 @@ body {
 }
 
 .navbar nav {
-  padding-top: 15xpx;
+  padding-top: 15px;
   margin-right: 20px;
   float: right;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
@@ -131,11 +131,15 @@ p {
   text-align: center;
 }
 
+.footer-wrapper h4 {
+  font-size: 20px;
+}
 /* Screens that are max width of 768px then make nav links stack */
 
 @media screen and (max-width: 768px) {
   .navbar nav ul > li {
     float: none;
     width: 100%;
+    flex: auto;
   }
 }
