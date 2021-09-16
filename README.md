@@ -1,4 +1,4 @@
-# Marketing Agency Website : Semantic Refactoring
+# Marketing Agency Website: Semantic Refactoring
 
 ## About the project
 
