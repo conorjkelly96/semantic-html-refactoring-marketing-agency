@@ -70,7 +70,7 @@ This code was refactored to contain `<header>` and `<nav>` tags to give the docu
 
 ### CSS Code Refactoring
 
-I found the original CSS code contained duplicate blocks of formatting targeting similar blocks, and found an opportunity to reduce complexity through class commonality. An example below represents the original source code:
+I saw the original CSS code contained duplicate blocks of formatting, and found an opportunity to reduce complexity through class commonality. An example below represents the original source code:
 
 ```
 .benefit-lead {
