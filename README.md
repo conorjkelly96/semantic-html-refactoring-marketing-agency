@@ -15,6 +15,10 @@ Below is a screenshot from the original website prior to refactoring.
 - HTML
 - CSS
 
+## Link to GitHub Pages
+
+[Click here:](https://conorjkelly96.github.io/semantic-html-refactoring-marketing-agency/)
+
 ## Solution Overview
 
 ### HTML Code Refactoring
