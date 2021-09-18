@@ -17,7 +17,7 @@ Below is a screenshot from the original website prior to refactoring.
 
 ## Link to GitHub Pages
 
-[Click here:](https://conorjkelly96.github.io/semantic-html-refactoring-marketing-agency/)
+[Click here!](https://conorjkelly96.github.io/semantic-html-refactoring-marketing-agency/)
 
 ## Solution Overview
 
